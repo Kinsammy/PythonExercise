@@ -1,4 +1,4 @@
-from chapter_four.first_class import BioData
+from first_class import BioData
 
 if __name__ == '__main__':
 

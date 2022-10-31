@@ -20,4 +20,5 @@ def student_grade():
         grade_counter += 1
 
 
-
+if __name__ == '__main__':
+    student_grade()
