@@ -1,5 +1,5 @@
 if __name__ == '__main__':
-    data ={
+    data = {
         'name': {
             'first name': 'Samuel',
             'last name': 'Fanu',
